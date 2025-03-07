@@ -6,30 +6,120 @@
     <description>Recent content on Louis Dupont</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2025 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 16:22:38 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/Blog/posts/my-first-post/</link>
-      <pubDate>Fri, 07 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Blog/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Welcome to my blog! This is my first post using Hugo with the PaperMod theme.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;test&lt;/span&gt;(x: int) &lt;span style=&#34;color:#f92672&#34;&gt;-&amp;gt;&lt;/span&gt; int:
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; x &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;name&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;Test&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;age&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;name&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Test&amp;#34;&lt;/span&gt;,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;age&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;city&amp;#34;&lt;/span&gt;: {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;name&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Paris&amp;#34;&lt;/span&gt;,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;population&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;2140526&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ls -la
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <title>🪤 The Chatbot Trap - Why Your LLM Project Is Stuck After the “Wow Moment&#34;</title>
+      <link>http://localhost:1313/Blog/posts/the-chatbot-trap/</link>
+      <pubDate>Fri, 07 Mar 2025 16:22:38 +0100</pubDate>
+      <guid>http://localhost:1313/Blog/posts/the-chatbot-trap/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Your LLM prototype amazed everyone—until it didn’t. Now it’s stuck, and no one’s using it. Here’s why.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;When most companies experiment with AI, &lt;strong&gt;the go-to application is a chatbot&lt;/strong&gt;. It’s intuitive, it looks impressive, and it feels like magic. But here’s the cold, hard truth: &lt;strong&gt;chatbots are why most LLM projects fail.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’ve seen it happen countless times. The team builds a chatbot to “harness AI,” and at first, it wows everyone. But then the cracks start to show:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DO NOT use these LLM Metrics ⛔ And what to do instead!</title>
+      <link>http://localhost:1313/Blog/posts/eval-metrics-to-avoid/</link>
+      <pubDate>Sat, 15 Feb 2025 11:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/Blog/posts/eval-metrics-to-avoid/</guid>
+      <description>&lt;p&gt;In two words: &lt;strong&gt;Generalist LLM metrics are more of a danger than an opportunity.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NEVER&lt;/strong&gt; start with them.&lt;/li&gt;
+&lt;li&gt;Use them only as a &lt;strong&gt;last resort&lt;/strong&gt;—and even then, with strict guidelines!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;so-what-are-these-vague-generic-metrics&#34;&gt;So what are these vague, generic metrics?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Helpfulness&lt;/li&gt;
+&lt;li&gt;Conciseness&lt;/li&gt;
+&lt;li&gt;Tone&lt;/li&gt;
+&lt;li&gt;Personalisation&lt;/li&gt;
+&lt;li&gt;… and more!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But what’s so wrong with them?&lt;/p&gt;
+&lt;h2 id=&#34;these-metrics-lack-real-meaning&#34;&gt;These Metrics Lack Real Meaning&lt;/h2&gt;
+&lt;p&gt;The biggest problem? They’re designed to evaluate an &lt;strong&gt;LLM in general&lt;/strong&gt;, not a &lt;strong&gt;specific use case&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Error Analysis 🔧 Stop Guessing, Start Fixing AI Models</title>
+      <link>http://localhost:1313/Blog/posts/error-analys-intro/</link>
+      <pubDate>Fri, 14 Feb 2025 12:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/Blog/posts/error-analys-intro/</guid>
+      <description>&lt;p&gt;Error analysis is about digging deep into &lt;em&gt;why&lt;/em&gt; something isn’t working - to learn from it. It might sound obvious, but it&amp;rsquo;s shockingly underused, especially where it matters most: AI development.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s explore what it is through an example&lt;/p&gt;
+&lt;h2 id=&#34;cats-or-dogs-&#34;&gt;Cats or Dogs ?&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;I&amp;rsquo;m skipping many details that may hurt Data Scientists for the sake of simplicity.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Say you have 200 images to classify as either cats or dogs. You build an AI and get &lt;strong&gt;78% accuracy&lt;/strong&gt; - not great. We need to do better. But how?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluate your LLM! Ok, but what&#39;s next? 🤔</title>
+      <link>http://localhost:1313/Blog/posts/evaluate-chatbot-whatnext/</link>
+      <pubDate>Thu, 02 Jan 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/Blog/posts/evaluate-chatbot-whatnext/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Everyone say you need to Evaluate your LLM. You just did it. Now what? 🤷‍♂️&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You got a score. Great. Now, here’s the trap:&lt;/p&gt;
+&lt;p&gt;You either:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Trust it.&lt;/strong&gt; (&lt;em&gt;&amp;ldquo;Nice, let&amp;rsquo;s ship!&amp;rdquo;&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chase a better one.&lt;/strong&gt; (&lt;em&gt;&amp;ldquo;Tweak some stuff and re-run!&amp;rdquo;&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both are &lt;strong&gt;horrible ideas.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;step-1-stop-staring-at-numbers&#34;&gt;&lt;strong&gt;Step 1: Stop staring at numbers.&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Numbers feel scientific, but &lt;strong&gt;they lie all the time.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Before doing anything, look at actual examples. &lt;strong&gt;What’s failing?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bad output? &lt;strong&gt;Fix the model.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Good output but bad score? &lt;strong&gt;Fix the eval.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Both wrong? &lt;strong&gt;You’ve got bigger problems.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;step-2-solve-the-right-problem&#34;&gt;&lt;strong&gt;Step 2: Solve the right problem.&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;If your &lt;strong&gt;model sucks&lt;/strong&gt;, tweak:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LLM Evals - The Trap No One’s Telling You 🐔</title>
+      <link>http://localhost:1313/Blog/posts/eval-trap/</link>
+      <pubDate>Thu, 02 Jan 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/Blog/posts/eval-trap/</guid>
+      <description>&lt;p&gt;We hear it more and more: ‘Use LLM Evaluations to guide your AI project.’ And for a good reason—metrics are essential.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Yet, there’s a trap nobody talks about&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let’s say you have a chatbot and want to introduce metrics. You find tools that compute metrics like &amp;lsquo;Helpfulness&amp;rsquo;, &amp;lsquo;Conciseness&amp;rsquo;, and &amp;lsquo;Completeness&amp;rsquo;.
+Sounds great—they promise to optimise your user’s experience. Right?&lt;/p&gt;
+&lt;p&gt;Truth is, their correlation to real business value is often unclear. Is this really what your user cares about ? Will this increase adoption ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📉 Why Improving Your AI Model Is Killing Your Project’s Success</title>
+      <link>http://localhost:1313/Blog/posts/dont-improve-ai/</link>
+      <pubDate>Wed, 01 Jan 2025 16:22:38 +0100</pubDate>
+      <guid>http://localhost:1313/Blog/posts/dont-improve-ai/</guid>
+      <description>&lt;p&gt;&lt;em&gt;What if improving your AI model is the very thing holding your project back?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You’ve spent weeks fine-tuning it—polishing every detail, boosting accuracy, solving edge cases. Yet, adoption hasn’t moved. &lt;em&gt;Frustrating?&lt;/em&gt; You’re not alone—&lt;strong&gt;this is a trap many AI teams fall into.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The problem isn’t that AI isn’t ready. It’s that the way we approach AI makes us feel productive while ignoring the real challenge: solving critical user needs.&lt;/p&gt;
+&lt;p&gt;Let’s break down why this happens—and how you can escape the trap.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Turn Your Broken Chatbot into Your Biggest Asset! 🏦</title>
+      <link>http://localhost:1313/Blog/posts/leverage-chatbot/</link>
+      <pubDate>Sat, 28 Dec 2024 16:22:38 +0100</pubDate>
+      <guid>http://localhost:1313/Blog/posts/leverage-chatbot/</guid>
+      <description>&lt;p&gt;You launched your chatbot, and… well, it’s not going as planned. Users are confused, workflows feel disjointed, and your team’s enthusiasm is quickly waning. Sound familiar?&lt;/p&gt;
+&lt;p&gt;Here’s the good news: your chatbot isn’t just failing—it’s revealing what matters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Every awkward interaction or frustrated user is a clue&lt;/strong&gt;. The gaps in your bot’s performance mirror the gaps in your understanding of user needs. And those gaps? They’re opportunities.&lt;/p&gt;
+&lt;p&gt;In my &lt;a href=&#34;the-chatbot-trap.md&#34;&gt;recent post&lt;/a&gt;, I explained why so many AI projects fall short—teams jump straight into building chatbots without asking whether they’re the right solution for the problem at hand. Often, they’re not. But even a “failing” chatbot can become a powerful diagnostic tool for understanding user needs more deeply.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤷‍♂️ ModernBERT Is Here - and It’s Not Just Another LLM Update</title>
+      <link>http://localhost:1313/Blog/posts/modernbert/</link>
+      <pubDate>Fri, 20 Dec 2024 16:22:38 +0100</pubDate>
+      <guid>http://localhost:1313/Blog/posts/modernbert/</guid>
+      <description>&lt;p&gt;BERT is back - and this time, it’s &lt;strong&gt;faster, smarter, and built for the tasks that matter.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you’re working on &lt;strong&gt;retrieval&lt;/strong&gt;, &lt;strong&gt;classification&lt;/strong&gt;, or &lt;strong&gt;code search&lt;/strong&gt;, encoder models like BERT have likely been your go-to. Generative LLMs may grab headlines, but &lt;strong&gt;when it comes to focused, production-ready AI tasks, BERT still shines&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Earlier this year, I ran an experiment comparing models on a real-world task—analyzing product reviews. The results were eye-opening:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/Blog/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/contact/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>
