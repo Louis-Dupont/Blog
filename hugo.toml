@@ -8,7 +8,10 @@ theme = "PaperMod"
   ShowShareButtons = true
   ShowToc = true
   comments = true
-  googleAnalytics = "G-X2HR4QZL5"
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-X2HR4QZL5"
 
 
 [params.utterances]
