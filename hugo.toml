@@ -1,9 +1,16 @@
 baseURL = "https://louis-dupont.github.io/Blog"
 languageCode = "en-us"
-title = "Louis Dupont's Blog"
+title = "Louis Dupont"
 theme = "PaperMod"
 
 [params]
   ShowReadingTime = true
   ShowShareButtons = true
   ShowToc = true
+
+
+[params.utterances]
+  repo = "Louis-Dupont/Blog"
+  issueTerm = "pathname"
+  theme = "github-light"
+  label="Comment"
