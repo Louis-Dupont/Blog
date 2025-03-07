@@ -25,3 +25,7 @@ theme = "PaperMod"
   issueTerm = "pathname"
   theme = "github-light"
   label="Comment"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
