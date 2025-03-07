@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Louis Dupont</title><link>https://louis-dupont.github.io/Blog/</link><description>Recent content on Louis Dupont</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://louis-dupont.github.io/Blog/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Blog Post</title><link>https://louis-dupont.github.io/Blog/posts/my-first-post/</link><pubDate>Fri, 07 Mar 2025 12:00:00 +0000</pubDate><guid>https://louis-dupont.github.io/Blog/posts/my-first-post/</guid><description>&lt;p>Welcome to my blog! This is my first post using Hugo with the PaperMod theme.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Louis Dupont</title><link>https://louis-dupont.github.io/Blog/</link><description>Recent content on Louis Dupont</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2025 16:22:38 +0100</lastBuildDate><atom:link href="https://louis-dupont.github.io/Blog/index.xml" rel="self" type="application/rss+xml"/><item><title>🪤 The Chatbot Trap - Why Your LLM Project Is Stuck After the “Wow Moment"</title><link>https://louis-dupont.github.io/Blog/posts/the-chatbot-trap/</link><pubDate>Fri, 07 Mar 2025 16:22:38 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/posts/the-chatbot-trap/</guid><description>&lt;p>&lt;em>Your LLM prototype amazed everyone—until it didn’t. Now it’s stuck, and no one’s using it. Here’s why.&lt;/em>&lt;/p>
+&lt;p>When most companies experiment with AI, &lt;strong>the go-to application is a chatbot&lt;/strong>. It’s intuitive, it looks impressive, and it feels like magic. But here’s the cold, hard truth: &lt;strong>chatbots are why most LLM projects fail.&lt;/strong>&lt;/p>
+&lt;p>I’ve seen it happen countless times. The team builds a chatbot to “harness AI,” and at first, it wows everyone. But then the cracks start to show:&lt;/p></description></item><item><title>DO NOT use these LLM Metrics ⛔ And what to do instead!</title><link>https://louis-dupont.github.io/Blog/posts/eval-metrics-to-avoid/</link><pubDate>Sat, 15 Feb 2025 11:00:00 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/posts/eval-metrics-to-avoid/</guid><description>&lt;p>In two words: &lt;strong>Generalist LLM metrics are more of a danger than an opportunity.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>NEVER&lt;/strong> start with them.&lt;/li>
+&lt;li>Use them only as a &lt;strong>last resort&lt;/strong>—and even then, with strict guidelines!&lt;/li>
+&lt;/ul>
+&lt;h3 id="so-what-are-these-vague-generic-metrics">So what are these vague, generic metrics?&lt;/h3>
+&lt;ul>
+&lt;li>Helpfulness&lt;/li>
+&lt;li>Conciseness&lt;/li>
+&lt;li>Tone&lt;/li>
+&lt;li>Personalisation&lt;/li>
+&lt;li>… and more!&lt;/li>
+&lt;/ul>
+&lt;p>But what’s so wrong with them?&lt;/p>
+&lt;h2 id="these-metrics-lack-real-meaning">These Metrics Lack Real Meaning&lt;/h2>
+&lt;p>The biggest problem? They’re designed to evaluate an &lt;strong>LLM in general&lt;/strong>, not a &lt;strong>specific use case&lt;/strong>.&lt;/p></description></item><item><title>Error Analysis 🔧 Stop Guessing, Start Fixing AI Models</title><link>https://louis-dupont.github.io/Blog/posts/error-analys-intro/</link><pubDate>Fri, 14 Feb 2025 12:00:00 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/posts/error-analys-intro/</guid><description>&lt;p>Error analysis is about digging deep into &lt;em>why&lt;/em> something isn’t working - to learn from it. It might sound obvious, but it&amp;rsquo;s shockingly underused, especially where it matters most: AI development.&lt;/p>
+&lt;p>Let&amp;rsquo;s explore what it is through an example&lt;/p>
+&lt;h2 id="cats-or-dogs-">Cats or Dogs ?&lt;/h2>
+&lt;p>&lt;em>I&amp;rsquo;m skipping many details that may hurt Data Scientists for the sake of simplicity.&lt;/em>&lt;/p>
+&lt;p>Say you have 200 images to classify as either cats or dogs. You build an AI and get &lt;strong>78% accuracy&lt;/strong> - not great. We need to do better. But how?&lt;/p></description></item><item><title>Evaluate your LLM! Ok, but what's next? 🤔</title><link>https://louis-dupont.github.io/Blog/posts/evaluate-chatbot-whatnext/</link><pubDate>Thu, 02 Jan 2025 10:00:00 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/posts/evaluate-chatbot-whatnext/</guid><description>&lt;p>&lt;strong>Everyone say you need to Evaluate your LLM. You just did it. Now what? 🤷‍♂️&lt;/strong>&lt;/p>
+&lt;p>You got a score. Great. Now, here’s the trap:&lt;/p>
+&lt;p>You either:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Trust it.&lt;/strong> (&lt;em>&amp;ldquo;Nice, let&amp;rsquo;s ship!&amp;rdquo;&lt;/em>)&lt;/li>
+&lt;li>&lt;strong>Chase a better one.&lt;/strong> (&lt;em>&amp;ldquo;Tweak some stuff and re-run!&amp;rdquo;&lt;/em>)&lt;/li>
+&lt;/ul>
+&lt;p>Both are &lt;strong>horrible ideas.&lt;/strong>&lt;/p>
+&lt;h2 id="step-1-stop-staring-at-numbers">&lt;strong>Step 1: Stop staring at numbers.&lt;/strong>&lt;/h2>
+&lt;p>Numbers feel scientific, but &lt;strong>they lie all the time.&lt;/strong>&lt;/p>
+&lt;p>Before doing anything, look at actual examples. &lt;strong>What’s failing?&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Bad output? &lt;strong>Fix the model.&lt;/strong>&lt;/li>
+&lt;li>Good output but bad score? &lt;strong>Fix the eval.&lt;/strong>&lt;/li>
+&lt;li>Both wrong? &lt;strong>You’ve got bigger problems.&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-2-solve-the-right-problem">&lt;strong>Step 2: Solve the right problem.&lt;/strong>&lt;/h2>
+&lt;p>If your &lt;strong>model sucks&lt;/strong>, tweak:&lt;/p></description></item><item><title>LLM Evals - The Trap No One’s Telling You 🐔</title><link>https://louis-dupont.github.io/Blog/posts/eval-trap/</link><pubDate>Thu, 02 Jan 2025 10:00:00 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/posts/eval-trap/</guid><description>&lt;p>We hear it more and more: ‘Use LLM Evaluations to guide your AI project.’ And for a good reason—metrics are essential.&lt;/p>
+&lt;p>&lt;strong>Yet, there’s a trap nobody talks about&amp;hellip;&lt;/strong>&lt;/p>
+&lt;p>Let’s say you have a chatbot and want to introduce metrics. You find tools that compute metrics like &amp;lsquo;Helpfulness&amp;rsquo;, &amp;lsquo;Conciseness&amp;rsquo;, and &amp;lsquo;Completeness&amp;rsquo;.
+Sounds great—they promise to optimise your user’s experience. Right?&lt;/p>
+&lt;p>Truth is, their correlation to real business value is often unclear. Is this really what your user cares about ? Will this increase adoption ?&lt;/p></description></item><item><title>📉 Why Improving Your AI Model Is Killing Your Project’s Success</title><link>https://louis-dupont.github.io/Blog/posts/dont-improve-ai/</link><pubDate>Wed, 01 Jan 2025 16:22:38 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/posts/dont-improve-ai/</guid><description>&lt;p>&lt;em>What if improving your AI model is the very thing holding your project back?&lt;/em>&lt;/p>
+&lt;p>You’ve spent weeks fine-tuning it—polishing every detail, boosting accuracy, solving edge cases. Yet, adoption hasn’t moved. &lt;em>Frustrating?&lt;/em> You’re not alone—&lt;strong>this is a trap many AI teams fall into.&lt;/strong>&lt;/p>
+&lt;p>The problem isn’t that AI isn’t ready. It’s that the way we approach AI makes us feel productive while ignoring the real challenge: solving critical user needs.&lt;/p>
+&lt;p>Let’s break down why this happens—and how you can escape the trap.&lt;/p></description></item><item><title>Turn Your Broken Chatbot into Your Biggest Asset! 🏦</title><link>https://louis-dupont.github.io/Blog/posts/leverage-chatbot/</link><pubDate>Sat, 28 Dec 2024 16:22:38 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/posts/leverage-chatbot/</guid><description>&lt;p>You launched your chatbot, and… well, it’s not going as planned. Users are confused, workflows feel disjointed, and your team’s enthusiasm is quickly waning. Sound familiar?&lt;/p>
+&lt;p>Here’s the good news: your chatbot isn’t just failing—it’s revealing what matters.&lt;/p>
+&lt;p>&lt;strong>Every awkward interaction or frustrated user is a clue&lt;/strong>. The gaps in your bot’s performance mirror the gaps in your understanding of user needs. And those gaps? They’re opportunities.&lt;/p>
+&lt;p>In my &lt;a href="the-chatbot-trap.md">recent post&lt;/a>, I explained why so many AI projects fall short—teams jump straight into building chatbots without asking whether they’re the right solution for the problem at hand. Often, they’re not. But even a “failing” chatbot can become a powerful diagnostic tool for understanding user needs more deeply.&lt;/p></description></item><item><title>🤷‍♂️ ModernBERT Is Here - and It’s Not Just Another LLM Update</title><link>https://louis-dupont.github.io/Blog/posts/modernbert/</link><pubDate>Fri, 20 Dec 2024 16:22:38 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/posts/modernbert/</guid><description>&lt;p>BERT is back - and this time, it’s &lt;strong>faster, smarter, and built for the tasks that matter.&lt;/strong>&lt;/p>
+&lt;p>If you’re working on &lt;strong>retrieval&lt;/strong>, &lt;strong>classification&lt;/strong>, or &lt;strong>code search&lt;/strong>, encoder models like BERT have likely been your go-to. Generative LLMs may grab headlines, but &lt;strong>when it comes to focused, production-ready AI tasks, BERT still shines&lt;/strong>.&lt;/p>
+&lt;p>Earlier this year, I ran an experiment comparing models on a real-world task—analyzing product reviews. The results were eye-opening:&lt;/p></description></item><item><title>Contact Me</title><link>https://louis-dupont.github.io/Blog/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://louis-dupont.github.io/Blog/contact/</guid><description>&lt;!-- raw HTML omitted --></description></item></channel></rss>
