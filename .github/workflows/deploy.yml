@@ -32,12 +32,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          submodules: true # Fetch submodules
-          fetch-depth: 0 # Avoid shallow clone issues
-
-      - name: Update submodules
-        run: git submodule update --init --recursive
