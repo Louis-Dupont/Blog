@@ -3,23 +3,25 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change this if your branch is different
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch theme submodules
+          submodules: true
           fetch-depth: 0
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: "latest"
 
       - name: Build the site
         run: hugo --minify
@@ -29,5 +31,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages  # Deploy to gh-pages branch
-
+          publish_branch: gh-pages
