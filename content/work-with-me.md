@@ -1,41 +1,40 @@
 ---
-title: "Work With Me"
+title: ""
 ShowToc: false
 comments: false
 ---
 
 AI teams don’t struggle to build models. They struggle to improve them.
 
-If you’ve spent months tweaking models, trying new prompts, or optimizing pipelines—without really knowing if things are getting better—you’re not alone.
+It’s easy to tweak models, adjust prompts, optimize pipelines. But after a while, it stops being clear whether those changes are actually helping.
 
-Most teams improve AI like they’re flying blind. They have intuition, they have talent, but they don’t have a structured way to know if an improvement is actually an improvement.
+AI doesn’t improve simply by doing more. It improves when you have clarity—when you **know exactly what's limiting progress**, and exactly how to move forward.
 
-That’s what I help teams fix.
-
-## **How Do We Move Forward?**
-
-AI doesn’t improve just because you work harder on it. It improves when you know exactly where progress is blocked, and exactly how to move forward.
-
-This can be divided into 3 main aspects.
-
-**→ Clarity before action.**
-
-Most AI teams jump straight into tweaking things—models, prompts, architectures—without a clear view of whether they’re solving the right problem. We start by breaking through the noise and getting to the core issue.
-
-**→ A structured way to improve.**
-
-AI development isn’t like software development—it’s iterative and unpredictable. I help teams put the right feedback loops in place so progress isn’t just _happening_—it’s controlled, measurable, and systematic.
-
-**→ Progress that compounds.**
-
-Most improvements fix one thing but break something else. We work together to make sure every iteration builds on the last, creating **real, lasting improvement**—not just another experiment.
+That's what I do.
 
 ---
 
-I dig deeper into what this means in **real-world AI systems** in my [**blog**](./articles/). Feel free to check it out.
+## **How to Move Forward**
 
-If you’d like to chat about how to help your team **systematically improve AI**, I run a [**free office hour**](./link-to-office-hour-registration) once a week.
+I help teams move from guessing to a structured, systematic way of improving AI—one where every iteration is clear, measurable, and actually moves the needle.
 
-For teams that want direct guidance, I also offer [**hands-on collaboration**](<(mailto:louis-dupont@live.fr)>) throughout this process.
+The specifics depend on your situation, but it usually comes down to three simple but critical insights:
 
-<!-- [**Schedule a Call →**](mailto:louis-dupont@live.fr) -->
+**→ Clarity first**  
+_Most teams chase visible improvements without knowing if they're fixing the real issue. We slow down to first clearly diagnose what's truly blocking progress._
+
+**→ Structured experimentation**  
+_AI improvement isn't linear. You need deliberate, measurable feedback loops so each step forward is clear, repeatable, and proven._
+
+**→ Real, lasting progress**  
+_Changes that fix one thing but break another aren’t improvements—they’re just movement. We build improvements that genuinely compound, leaving you reliably better off after each step._
+
+> _So, what should I do next?_
+
+→ First, check out my [**blog**](./articles/)—I regularly share insights and mental models that can immediately help your team.
+
+→ Each week, I set aside limited time for open office hours—one team per week. If you're working on AI and feel stuck—unsure what’s working, what’s not, or how to move forward—you’re welcome to [**request a spot**](./link-to-office-hour-registration).
+_If this week's session is taken, you'll automatically join the queue for next week._
+
+→ For teams ready to dive deeper, I also offer direct, [**hands-on collaboration**](mailto:louis-dupont@live.fr).  
+My minimum level of engagement starts at $5,500. If this is outside your budget, the weekly office hour is a great alternative.
