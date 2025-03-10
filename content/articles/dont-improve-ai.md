@@ -2,6 +2,8 @@
 date = '2025-01-01T16:22:38+01:00'
 draft = false
 title = '📉 Why Improving Your AI Model Is Killing Your Project’s Success'
+categories = ["Blog"]
+tags = ["LLM", "Chatbots", "AI Strategy"]
 +++
 
 _What if improving your AI model is the very thing holding your project back?_

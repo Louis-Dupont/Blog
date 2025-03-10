@@ -8,6 +8,10 @@ theme = "PaperMod"
   ShowShareButtons = true
   ShowToc = true
   comments = true
+  ShowTags = true
+  ShowCategories = true
+  mainSections = ["blog"]  # Move posts to /blog/
+
 
 [services]
   [services.googleAnalytics]
@@ -29,3 +33,25 @@ theme = "PaperMod"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Articles"
+    url = "/articles/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
