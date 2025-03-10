@@ -12,6 +12,16 @@ theme = "PaperMod"
   ShowCategories = true
   mainSections = ["blog"]  # Move posts to /blog/
 
+  ShowRightSidebar = true
+  ShowCategoriesInSidebar = true
+  ShowTagsInSidebar = true
+
+  [params.sidebar]
+    home = "right"  # or "left" depending on where you want it
+    sticky = true
+    includeHome = true
+    includeTags = true
+    includeCategories = true
 
 [services]
   [services.googleAnalytics]
@@ -42,16 +52,16 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    name = "Articles"
-    url = "/articles/"
+    name = "Work with me"
+    url = "/work-with-me/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Articles"
+    url = "/articles/"
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "About Me"
+    url = "/about-me/"
     weight = 4
