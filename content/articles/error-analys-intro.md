@@ -2,9 +2,8 @@
 date = '2025-02-14T12:00:00+01:00'
 draft = false
 title = 'Error Analysis 🔧 Stop Guessing, Start Fixing AI Models'
+description = 'Error analysis is about digging deep into why something isn’t working - to learn from it.'
 +++
-
-Error analysis is about digging deep into _why_ something isn’t working - to learn from it. It might sound obvious, but it's shockingly underused, especially where it matters most: AI development.
 
 Let's explore what it is through an example
 

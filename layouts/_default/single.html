@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="post-content">
+  <!-- Debugging output -->
+  <p style="display: none;">Template: single.html</p>
+
+  {{ if and (ne .IsHome true) (ne .File.BaseFileName "work-with-me") }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    <p class="post-description">{{ .Params.description }}</p>
+  {{ end }}
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -4,6 +4,9 @@ title = "Louis Dupont"
 theme = "PaperMod"
 
 [params]
+  title = "Louis Dupont – AI & Systematic AI Improvement"
+  description = "Helping AI teams improve systematically, not just tweak models."
+  author = "Louis Dupont"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowToc = true
@@ -11,6 +14,8 @@ theme = "PaperMod"
   ShowTags = true
   ShowCategories = true
   mainSections = ["blog"]  # Move posts to /blog/
+
+  favicon = "./static/favicon.ico"
 
   ShowRightSidebar = true
   ShowCategoriesInSidebar = true
