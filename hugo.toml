@@ -15,7 +15,11 @@ theme = "PaperMod"
   ShowCategories = true
   mainSections = ["blog"]  # Move posts to /blog/
 
-  favicon = "favicon.ico"
+  [assets]
+    favicon= "assets/favicon.ico"
+    favicon16x16= "assets/favicon.ico" 
+    favicon32x32= "assets/favicon.ico" 
+
 
   ShowRightSidebar = true
   ShowCategoriesInSidebar = true
