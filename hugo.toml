@@ -61,16 +61,11 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    name = "Work with me"
-    url = "/work-with-me/"
+    name = "Articles"
+    url = "/articles/"
     weight = 2
 
   [[menu.main]]
-    name = "Articles"
-    url = "/articles/"
+    name = "Work with me"
+    url = "/work-with-me/"
     weight = 3
-
-  [[menu.main]]
-    name = "About Me"
-    url = "/about-me/"
-    weight = 4
