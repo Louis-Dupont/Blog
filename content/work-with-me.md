@@ -34,4 +34,4 @@ _Changes that fix one thing but break another aren't improvements—they're just
 → If you're working on AI and feel stuck, I set aside limited time for a free office hours—one team per week. You're welcome to [**request a spot**](https://form.typeform.com/to/VQqJ2ZDT).
 
 → For teams ready to dive deeper, I also offer direct, [**hands-on collaboration**](mailto:louis-dupont@live.fr).  
-My minimum level of engagement starts at $5,500. If this is outside your budget, the weekly office hour is a great alternative.
+My minimum level of engagement starts at $2,500. If this is outside your budget, the weekly office hour is a great alternative.
