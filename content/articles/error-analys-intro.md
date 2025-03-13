@@ -1,8 +1,8 @@
 +++
 date = '2025-02-14T12:00:00+01:00'
 draft = false
-title = 'Error Analysis 🔧 Stop Guessing, Start Fixing AI Models'
-description = 'Error analysis is about digging deep into why something isn’t working - to learn from it.'
+title = "Error Analysis 🔧 Stop Guessing, Start Fixing AI Models"
+description = "Error analysis is about digging deep into why something isn't working - to learn from it."
 +++
 
 Let's explore what it is through an example

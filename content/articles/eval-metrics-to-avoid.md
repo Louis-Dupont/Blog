@@ -17,11 +17,11 @@ In two words: **Generalist LLM metrics are more of a danger than an opportunity.
 - Personalisation
 - … and more!
 
-But what’s so wrong with them?
+But what's so wrong with them?
 
 ## These Metrics Lack Real Meaning
 
-The biggest problem? They’re designed to evaluate an **LLM in general**, not a **specific use case**.
+The biggest problem? They're designed to evaluate an **LLM in general**, not a **specific use case**.
 
 By definition, they apply broadly—but do they truly matter? More often than not, they have **weak correlations with user satisfaction** and even **weaker ties to actual ROI**.
 
@@ -30,7 +30,7 @@ And what do they really measure?
 - **Conciseness?** What does "concise" even mean? It depends on your use case - and **your** definition.
 - **Helpfulness?** How do you objectively assess that?
 
-At best, these metrics provide vague direction. At worst, they **create the illusion that we’re measuring something meaningful** -when we’re not.
+At best, these metrics provide vague direction. At worst, they **create the illusion that we're measuring something meaningful** -when we're not.
 
 ## Start with the Problem, Not the Solution
 

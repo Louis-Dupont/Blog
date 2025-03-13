@@ -6,7 +6,7 @@ title = "Evaluate your LLM! Ok, but what's next? 🤔"
 
 **Everyone say you need to Evaluate your LLM. You just did it. Now what? 🤷‍♂️**
 
-You got a score. Great. Now, here’s the trap:
+You got a score. Great. Now, here's the trap:
 
 You either:
 
@@ -19,11 +19,11 @@ Both are **horrible ideas.**
 
 Numbers feel scientific, but **they lie all the time.**
 
-Before doing anything, look at actual examples. **What’s failing?**
+Before doing anything, look at actual examples. **What's failing?**
 
 - Bad output? **Fix the model.**
 - Good output but bad score? **Fix the eval.**
-- Both wrong? **You’ve got bigger problems.**
+- Both wrong? **You've got bigger problems.**
 
 ## **Step 2: Solve the right problem.**
 
@@ -44,4 +44,4 @@ Change something → Run eval → Learn → Repeat.
 
 Basically, do [Error Analysis](error-analys-intro.md) on your Evals (instead of on your LLM)!
 
-**Chasing numbers isn’t progress.** Chasing the right insights is.
+**Chasing numbers isn't progress.** Chasing the right insights is.
