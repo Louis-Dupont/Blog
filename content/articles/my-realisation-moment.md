@@ -2,7 +2,6 @@
 date = '2025-03-12T15:59:10+01:00'
 draft = false
 title = 'We Built an Impressive AI – But It Was Useless'
-description: "AI doesn't improve simply by doing more. It improves when you have clarity—when you know exactly what's limiting progress, and exactly how to move forward. That's what I do."
 +++
 
 A few years ago, I worked on my first Generative AI project: a customer-facing AI assistant. The company had unique customer data and believed AI could transform it into a highly personalized, valuable chatbot.
