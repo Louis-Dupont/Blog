@@ -29,7 +29,7 @@ _Changes that fix one thing but break another aren't improvements—they're just
 
 > _So, what's next?_
 
-→ First, check out my [**blog**](./articles/)—I regularly share insights and mental models that can immediately help your team.
+→ First, check out my [**blog**](../articles/)—I regularly share insights and mental models that can immediately help your team.
 
 → If you're working on AI and feel stuck, I set aside limited time for a free office hours—one team per week. You're welcome to [**request a spot**](https://form.typeform.com/to/VQqJ2ZDT).
 
