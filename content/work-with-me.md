@@ -31,8 +31,7 @@ _Changes that fix one thing but break another aren't improvements—they're just
 
 → First, check out my [**blog**](./articles/)—I regularly share insights and mental models that can immediately help your team.
 
-→ Each week, I set aside limited time for open office hours—one team per week. If you're working on AI and feel stuck—unsure what's working, what's not, or how to move forward—you're welcome to [**request a spot**](https://form.typeform.com/to/VQqJ2ZDT).
-_If this week's session is taken, you'll automatically join the queue for next week._
+→ If you're working on AI and feel stuck, I set aside limited time for a free office hours—one team per week. You're welcome to [**request a spot**](https://form.typeform.com/to/VQqJ2ZDT).
 
 → For teams ready to dive deeper, I also offer direct, [**hands-on collaboration**](mailto:louis-dupont@live.fr).  
 My minimum level of engagement starts at $5,500. If this is outside your budget, the weekly office hour is a great alternative.

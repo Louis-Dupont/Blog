@@ -2,6 +2,7 @@
 date = '2025-03-12T15:59:10+01:00'
 draft = false
 title = 'We Built an Impressive AI – But It Was Useless'
+description: "AI doesn't improve simply by doing more. It improves when you have clarity—when you know exactly what's limiting progress, and exactly how to move forward. That's what I do."
 +++
 
 A few years ago, I worked on my first Generative AI project: a customer-facing AI assistant. The company had unique customer data and believed AI could transform it into a highly personalized, valuable chatbot.
@@ -10,17 +11,11 @@ We built a prototype fast. Our users were excited about the first demo.
 
 ### We were not our Users
 
-But there was a catch: we had almost no access to real users.
+But there was a catch: we had almost no access to real users. With so few user tests, we had to rely on ourselves—we became our own test users.
 
-With so few user tests, we had to rely on ourselves—we became our own test users.
+We tried to think, behave, and react like our users. At first, it seemed to work well—for us. We spotted issues, fixed them, and each iteration felt like progress
 
-We tried to think, behave, and react like our users. At first, it seemed to work well—for us.
-
-We spotted issues, fixed them, and each iteration felt like progress
-
-Then we put the chatbot in front of real users.
-
-They barely noticed the difference.
+Then we put the chatbot in front of real users. They barely noticed the difference.
 
 We had solved real issues. But were they the right ones? Not really.
 
@@ -32,9 +27,7 @@ During the long gaps between user tests, we had no choice but to guess whether o
 
 We still didn’t know how to properly evaluate it. We kept wondering: is it really working, or only on our chosen examples?
 
-Eventually, our AI delivered that initial "wow" effect.
-
-Users tried it—but they didn’t come back.
+Eventually, our AI delivered that initial "wow" effect. Users tried it—but they didn’t come back.
 
 Technically, the AI performed well. But none of that mattered, because it wasn’t aligned with what customers actually needed
 
@@ -95,4 +88,4 @@ Hand the same model to a competitor, and they won’t be able to iterate effecti
 
 If you are truly looking for a competitive edge, don't invest in the byproduct, invest in the engine.
 
-[Learn how I can help →](../work-with-me)
+[Learn how I can help →](../../work-with-me)
