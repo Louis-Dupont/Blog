@@ -1,6 +1,6 @@
 +++
 date = '2025-03-12T15:59:10+01:00'
-draft = true
+draft = false
 title = 'We Built an Impressive AI – But It Was Useless'
 +++
 
