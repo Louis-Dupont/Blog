@@ -1,7 +1,7 @@
 +++
 date = '2025-03-12T15:59:10+01:00'
 draft = false
-title = 'We Built an Impressive AI – But It Was Useless'
+title = 'How to Fail your AI Project – Like I Did'
 +++
 
 A few years ago, I worked on my first Generative AI project: a customer-facing AI assistant. The company had unique customer data and believed AI could transform it into a highly personalized, valuable chatbot.

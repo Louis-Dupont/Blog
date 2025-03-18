@@ -1,7 +1,7 @@
 +++
 date = '2025-03-18T15:42:04+01:00'
 draft = false
-title = 'Error Analysis in Practice'
+title = 'Unblock Your AI Project (For Good)'
 +++
 
 Many teams I’ve worked with start off with rapid progress in developping their AI - usually a RAG system. At first, iteration is fast. Each tweak brings noticeable improvements. But then, they hit a plateau.
@@ -69,7 +69,7 @@ Should you optimize for a specific input topic ? Or failure mode? Support only 2
 
 Well, that's a product decision, but you now have all the cards in hand to take it and decide on what to prioritize.
 
-## Stay far from Evals (for now)
+## Stay Far from Eval
 
 At this stage, it’s tempting to start automating error tracking with Evals.
 
@@ -82,9 +82,9 @@ There are two major ways premature automation backfires:
 - **You measure the wrong thing**. If you automate before deeply understanding your failure modes, and end up with a weak metrics that mislead you.
 - **You measure something that isn’t worth tracking long-term**. Some problems disappear after a few iterations. If you automate too early, you waste time tracking noise.
 
-This is why **manual analysis comes first**. Only automate when a failure mode proves to be recurring across multiple iterations. Otherwise, you’re just adding unneeded complexity.
+This is why **manual analysis comes first**. Only automate when a failure mode proves to be recurring across multiple iterations. Otherwise, you’re just losing time adding unneeded complexity.
 
-## Exclusive bonus you get from doing your homework
+## Exclusive Bonus
 
 There’s another key benefit to doing error analysis right: **you discover when a single approach isn’t enough.**
 
