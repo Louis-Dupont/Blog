@@ -8,7 +8,7 @@ A few years ago, I worked on my first Generative AI project: a customer-facing A
 
 We built a prototype fast. Our users were excited about the first demo.
 
-### We were not our Users
+## Our First Big Mistake
 
 But there was a catch: we had almost no access to real users. With so few user tests, we had to rely on ourselves—we became our own test users.
 
@@ -18,7 +18,7 @@ Then we put the chatbot in front of real users. They barely noticed the differen
 
 We had solved real issues. But were they the right ones? Not really.
 
-### We Kept Iterating—But Nothing Changed
+## Guesswork Isn’t Iteration
 
 Over the next months, we started seeing patterns in their feedback—but every iteration still felt slow and uncertain.
 
@@ -34,19 +34,15 @@ We thought we were listening carefully to our users. Not enough.
 
 We were gathering feedback—but too slowly, and without a clear way to turn it into meaningful changes. That's what made the difference
 
-### Success = Great Feedback Loop
-
-#### Shorten the Loop!
+## What If You’re Optimizing the Wrong Thing?
 
 Our feedback loop was painfully slow. At the time, we told ourselves it was out of our control, but looking back, that's exactly where we should have focused.
 
 Later, I realized something crucial: even if direct user feedback isn't always available, you can create a proxy if you choose the right metrics.
 
-#### Learn what Truly Matterss
-
 I mean, this sounds great on paper, but it's much harder in practice. We also tried to set up metrics, but had no idea how to properly do it.
 
-_Let's dig into it!_
+**_Let's dig into it!_**
 
 The hardest part isn't just building metrics, it's figuring out which ones actually matter. A metric is only useful if it tightly correlates with actual outcomes.
 
@@ -60,7 +56,7 @@ This isn't a one-shot process where you define metrics once and move on. Your un
 
 Early in a project, you'll spend more time refining what matters, and then less overtime as your understanding deepens.
 
-#### Setup the right Metrics
+## How to Measure What Actually Matters?
 
 Alongside gathering direct user feedback, you should identify strong proxies for success.
 
@@ -77,7 +73,7 @@ Once you have a clear idea on what matters, and a reliable way to approximate it
 
 > Always remember: Metrics are only useful if they are tightly aligned with real-world success. At any stage, you may be optimizing the wrong thing, or measuring it the wrong way. Metrics are a means to an end, not the end itself, so continuously cross-check them against real-world impact.
 
-### Your competitive advantage is not your Architecture or Prompt
+## Your Competitive Edge Isn’t in Your Model
 
 The real challenge for AI engineers isn't optimizing models—it's defining and approximating success. Once you know what success looks like and can measure it reliably, improving your AI becomes surprisingly easy.
 
