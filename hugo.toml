@@ -66,6 +66,6 @@ theme = "PaperMod"
     weight = 2
 
   [[menu.main]]
-    name = "Work with me"
+    name = "Consulting"
     url = "/work-with-me/"
     weight = 3
