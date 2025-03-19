@@ -61,7 +61,7 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    name = "Articles"
+    name = "Insights"
     url = "/articles/"
     weight = 2
 
