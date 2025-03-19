@@ -36,9 +36,7 @@ It may feel slow at first. But **if you do it right, patterns will emerge.** And
 
 Here’s how it typically goes:
 
-### First, you take a real sample of your logs.
-
-Carefully go through each output and try to identify **recurring mistakes.** Once you do, list them. **These are your failure modes.**
+First, you take a real sample of your logs. Carefully go through each output and try to identify **recurring mistakes.** Once you do, list them. **These are your failure modes.**
 
 - _"Misunderstands the query"_
 - _"Refuses to answer the question"_
@@ -103,5 +101,5 @@ They fail because they rush to conclusions. Automate the wrong metrics. Optimize
 
 It’s a continuous process—one that, **when done right, becomes the foundation for scalable Evals.**
 
-[**Read my Blog →**](./articles/)  
-[**Learn how I can help →**](./work-with-me)
+[Read my Blog →](./articles/)  
+[Learn how I can help →](./work-with-me)
