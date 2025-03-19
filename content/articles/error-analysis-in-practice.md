@@ -91,7 +91,7 @@ But **this is the difference between engineering and guessing.**
 When you do error analysis right:\
 **→** You stop chasing abstract improvements and focus on real issues that impact users.\
 **→** You prioritize fixes effectively, instead of throwing darts in the dark.\
-**→** You know exactly when and where to automate, rather than wasting effort tracking things that don’t matter.\
+**→** You know exactly when and where to automate, rather than wasting effort tracking things that don’t matter.
 
 AI teams rarely fail because they lack solutions.
 
