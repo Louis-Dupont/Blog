@@ -101,5 +101,5 @@ They fail because they rush to conclusions. Automate the wrong metrics. Optimize
 
 It's a continuous process—one that, **when done right, becomes the foundation for scalable Evals.**
 
-[Read my Blog →](./articles/)  
-[Learn how I can help →](./work-with-me)
+[Read my Blog →](../../articles/)  
+[Learn how I can help →](../../work-with-me)
