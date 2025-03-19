@@ -3,5 +3,5 @@
 &lt;h2 id="when-metrics-stop-making-sense">When Metrics Stop Making Sense&lt;/h2>
 &lt;p>That’s when most teams turn to metrics. And &lt;strong>that’s where things usually go wrong.&lt;/strong>&lt;/p></description></item><item><title>How to Fail your AI Project – Like I Did</title><link>https://louis-dupont.github.io/Blog/articles/my-realisation-moment/</link><pubDate>Wed, 12 Mar 2025 15:59:10 +0100</pubDate><guid>https://louis-dupont.github.io/Blog/articles/my-realisation-moment/</guid><description>&lt;p>A few years ago, I worked on my first Generative AI project: a customer-facing AI assistant. The company had unique customer data and believed AI could transform it into a highly personalized, valuable chatbot.&lt;/p>
 &lt;p>We built a prototype fast. Our users were excited about the first demo.&lt;/p>
-&lt;h3 id="we-were-not-our-users">We were not our Users&lt;/h3>
+&lt;h2 id="our-first-big-mistake">Our First Big Mistake&lt;/h2>
 &lt;p>But there was a catch: we had almost no access to real users. With so few user tests, we had to rely on ourselves—we became our own test users.&lt;/p></description></item></channel></rss>
