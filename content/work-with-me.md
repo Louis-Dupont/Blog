@@ -14,7 +14,7 @@ That's exactly where I help.
 
 I guide AI teams from guessing and uncertainty toward a structured, systematic approach, where each improvement is clear, measurable, and genuinely moves the needle.
 
-_**Here’s how it usually goes**_
+_**Here's how it usually goes**_
 
 **→ Diagnose First**  
 Before rushing into improvements, we slow down and clearly understand what's blocking progress. This clarity means your team can stop chasing random improvements and start fixing the problems that actually matter.
