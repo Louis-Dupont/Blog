@@ -17,7 +17,7 @@ It's your ability to **systematically learn**, from each experiment, what really
 
 It took me years to figure out how to systematically escape this loop.
 
-You don't have to:
+<!-- You don't have to: -->
 
 [Read my Blog →](./articles/)
 

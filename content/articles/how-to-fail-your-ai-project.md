@@ -87,4 +87,5 @@ Hand the same model to a competitor, and they won't be able to iterate effective
 
 If you are truly looking for a competitive edge, don't invest in the byproduct, invest in the factory.
 
+[Read my Blog →](../../articles/)  
 [Learn how I can help →](../../work-with-me)

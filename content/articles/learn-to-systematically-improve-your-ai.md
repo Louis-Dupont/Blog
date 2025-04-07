@@ -1,7 +1,7 @@
 +++
 date = '2025-03-18T15:42:04+01:00'
 draft = false
-title = 'Unblock Your AI (For Good)'
+title = 'Stop Tweaking → Learn to Systematically Improve your AI'
 +++
 
 Many teams I've worked with start out making rapid progress with their AI - usually a RAG system. At first, iteration is fast. Each tweak makes a visible difference. But then, they hit a plateau.
@@ -44,17 +44,19 @@ First, you take a real sample of your logs. Carefully go through each output and
 
 Whatever they are, give them names. **Tag at least 50 queries (ideally hundreds).**
 
-Now, you don't just have a list of failures—you have a clear map of how often each one occurs.
+Now, you don't just have a list of failures. You can turn it into a clear map of how often each failure occurs.
 
 **But you're not done yet.**
 
-Next, analyze your **user queries.** What are they actually asking? What **topics** keep coming back?
+Next, analyze your **user queries**. What are they actually asking? What cluster of **topics** keep coming back?
 
 - _"Technical Troubleshooting"_
 - _"Product Questions"_
 - _"Pricing Questions"_
 
-The real power comes when you combine these tags into a clear input topic vs. failure mode matrix.
+**And this is when the magic operates.**
+
+When you combine these tags into a clear input topic vs. failure mode matrix.
 
 | **Input Topic vs Failure Mode** | **Query Misunderstanding** | **Answer Refusal** | **Retrieval Failure** | **% of Queries** |
 | ------------------------------- | -------------------------- | ------------------ | --------------------- | ---------------- |
@@ -89,9 +91,9 @@ It's work. It's tedious. And it might feel slow at first.
 But **this is the difference between engineering and guessing.**
 
 When you do error analysis right:\
-**→** You stop chasing abstract improvements and focus on real issues that impact users.\
-**→** You prioritize fixes effectively, instead of throwing darts in the dark.\
-**→** You know exactly when and where to automate, rather than wasting effort tracking things that don't matter.
+**→** You **stop chasing abstract improvements** and focus on real issues that impact users.\
+**→** You **prioritize fixes effectively**, instead of throwing darts in the dark.\
+**→** You **know exactly when and where to automate**, rather than wasting effort tracking things that don't matter.
 
 AI teams rarely fail because they lack solutions.
 
